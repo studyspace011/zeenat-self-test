@@ -1,6 +1,6 @@
 {
     "name": "Offline MCQ Test App",
-    "short_name": "Zeenat Self Test",
+    "short_name": "MCQ Test",
     "description": "ऑफ़लाइन MCQ टेस्ट ऐप - CSV से प्रश्न अपलोड करें और तुरंत टेस्ट दें",
     "start_url": "index.html",
     "display": "standalone",
